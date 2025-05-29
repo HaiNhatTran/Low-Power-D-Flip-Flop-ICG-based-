@@ -30,6 +30,11 @@
 
 ![image](https://github.com/user-attachments/assets/0ea755b7-c6a6-4ec1-9c4a-badba30b924b)
 
+3.3. Power
+
+![image](https://github.com/user-attachments/assets/bd7ba104-6d7f-4e53-9342-cd992ac710cb)
+
+
 # 4. D Flip-Flop with Integrated Clock Gating Cell
 
 4.1. Sơ đồ nguyên lý
@@ -40,7 +45,9 @@
 
 ![image](https://github.com/user-attachments/assets/4eb026ff-9221-49ef-b771-682333a7e08b)
 
+4.3. Power
 
+![image](https://github.com/user-attachments/assets/e2074ff1-e379-4f77-90f5-c8abb53713a2)
 
 
 
