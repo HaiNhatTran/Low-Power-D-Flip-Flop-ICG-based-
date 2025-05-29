@@ -32,7 +32,7 @@
 
 3.3. Power
 
-
+![image](https://github.com/user-attachments/assets/1e34abd3-82e2-463c-bf38-46016b092429)
 
 
 # 4. D Flip-Flop with Integrated Clock Gating Cell
