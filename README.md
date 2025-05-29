@@ -50,6 +50,26 @@
 ![image](https://github.com/user-attachments/assets/48c0331f-9288-49d4-b838-439e265e3b76)
 
 
+# 5. D Flip-Flop with Integrated Clock Gating Cell using System verilog
+
+5.1. Code RTL 
+
+![image](https://github.com/user-attachments/assets/eed874e7-4a8f-49b8-a0ca-3e5d49b53ffa)
+
+5.2. Testbench
+
+![image](https://github.com/user-attachments/assets/af951023-a35f-4769-bc94-3685ec7eaffe)
+
+
+5.3. Monitor
+
+![image](https://github.com/user-attachments/assets/4dd2964c-6b94-4e93-8baa-d6ad88732752)
+
+
+5.4. Wave
+
+![image](https://github.com/user-attachments/assets/b35b75c1-36b6-4e89-a372-f2a66ba9f88a)
+
 
 
 
