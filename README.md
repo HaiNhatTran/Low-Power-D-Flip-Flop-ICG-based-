@@ -54,7 +54,8 @@
 
 5.1. Code RTL 
 
-![image](https://github.com/user-attachments/assets/eed874e7-4a8f-49b8-a0ca-3e5d49b53ffa)
+![image](https://github.com/user-attachments/assets/07db8a21-8de6-40cc-ac06-fb6ddf602e78)
+
 
 5.2. Testbench
 
@@ -63,12 +64,13 @@
 
 5.3. Monitor
 
-![image](https://github.com/user-attachments/assets/4dd2964c-6b94-4e93-8baa-d6ad88732752)
+![image](https://github.com/user-attachments/assets/b60196ab-cbba-47f2-9490-1dc47a6f8a1a)
 
 
 5.4. Wave
 
-![image](https://github.com/user-attachments/assets/b35b75c1-36b6-4e89-a372-f2a66ba9f88a)
+![image](https://github.com/user-attachments/assets/48ea74a8-ebf0-41d3-b9be-4f14c90e4028)
+
 
 
 
