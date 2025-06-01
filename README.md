@@ -43,7 +43,7 @@
 
 4.2. Kết quả mô phỏng
 
-![image](https://github.com/user-attachments/assets/4eb026ff-9221-49ef-b771-682333a7e08b)
+![image](https://github.com/user-attachments/assets/caecc1b5-9435-464f-9e56-9bef2fa42bae)
 
 4.3. Power
 
