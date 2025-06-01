@@ -73,7 +73,7 @@
 
 6.2. Testbench
 
-![image](https://github.com/user-attachments/assets/af951023-a35f-4769-bc94-3685ec7eaffe)
+![image](https://github.com/user-attachments/assets/e4b86810-eca8-402a-a0fa-54d7cde71739)
 
 
 6.3. Monitor
